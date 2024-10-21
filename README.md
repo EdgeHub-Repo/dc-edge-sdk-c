@@ -1,1 +1,1 @@
-# dc-edge-sdk-c
+# EdgeSync360 EdgeHub Edge C SDK
